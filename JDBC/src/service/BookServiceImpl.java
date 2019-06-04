@@ -9,7 +9,6 @@ import vo.BookVO;
 public class BookServiceImpl implements BookService {
 
 	private BookDAO dao = null;
-	DeptManager_소현우 dm = null;
 
 	public BookServiceImpl() {
 		super();
